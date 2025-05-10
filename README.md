@@ -4,13 +4,12 @@
 
 ## About Me 🚀
 
-I'm a passionate **front end engineer ** with experience in **technologies like js ,react and css **. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate front end engineer with experience in technologies like js ,react and css . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **front end web engineering **
-- 🔭 Working on: **i am working on airbnb clone project ]**
-- 🌍 Languages: **programming languages and human languages you speak**
-- 📫 How to reach me: **alextaddele@gmail.com**
-- ⚡ Fun fact: **i am afraid of girls **
+- 🌱 Currently learning: **front end web engineering 
+- 🔭 Working on: **i am working on airbnb clone project 
+- 🌍 Languages: **programming languages and human languages you speak
+- 📫 How to reach me: **alextaddele@gmail.com.
 
 ## My Skills 🧠
 
@@ -30,7 +29,6 @@ I'm a passionate **front end engineer ** with experience in **technologies like 
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**(www.linkedin.com/in/alex-taddele-a11046363)
 - **[Twitter]**(https://x.com/alex_taddele?t=NP7TU_HJ7m0YBac0rqnRsA&s=09)
 
