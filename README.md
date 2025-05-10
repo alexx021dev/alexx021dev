@@ -6,10 +6,10 @@
 
 I'm a passionate front end engineer with experience in technologies like js ,react and css . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **front end web engineering 
-- 🔭 Working on: **i am working on airbnb clone project 
-- 🌍 Languages: **programming languages and human languages you speak
-- 📫 How to reach me: **alextaddele@gmail.com.
+- 🌱 Currently learning: front end web engineering 
+- 🔭 Working on: i am working on airbnb clone project 
+- 🌍 Languages: programming languages and human languages you speak
+- 📫 How to reach me: alextaddele@gmail.com.
 
 ## My Skills 🧠
 
@@ -19,7 +19,6 @@ I'm a passionate front end engineer with experience in technologies like js ,rea
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
