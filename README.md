@@ -1,6 +1,6 @@
 # Hi there, I'm alex! 👋
 
-![Banner Image]
+
 
 ## About Me 🚀
 
