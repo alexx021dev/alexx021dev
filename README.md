@@ -27,8 +27,8 @@ I'm a passionate front end engineer with experience in technologies like js ,rea
 
 ## Get in Touch 📬
 
-- [LinkedIn](www.linkedin.com/in/alex-taddele-a11046363)
-- [Twitter](https://x.com/alex_taddele?t=NP7TU_HJ7m0YBac0rqnRsA&s=09)
+- **[LinkedIn]**(www.linkedin.com/in/alex-taddele-a11046363)
+- ** [Twitter]**(https://x.com/alex_taddele?t=NP7TU_HJ7m0YBac0rqnRsA&s=09)
 
 
 
