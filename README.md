@@ -15,12 +15,6 @@ i am leanring full stack web engineering and this is the place where i show my p
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
-## Featured Projects 💻
-
-### [airbnb](https://github.com/alexx021dev/airbnb-clone-project)
-
-
-
 ## Get in Touch 📬
 
 - **[LinkedIn]**(www.linkedin.com/in/alex-taddele-a11046363)
