@@ -1,13 +1,9 @@
-# Hi there, I'm alex! 👋
+# Hi there, I'm kaelen! 👋
 
 
 
 ## About Me 🚀
-
-I'm a passionate front end engineer with experience in technologies like js ,react and css . I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
-
-- 🌱 Currently learning front end web engineering in alx prodev programm to advance my skills.
-- 🔭I am working on airbnb clone project 
+i am leanring full stack web engineering and this is the place where i show my progress.
 - 📫Reach me: alextaddele@gmail.com.
 
 ## My Skills 🧠
