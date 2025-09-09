@@ -3,7 +3,7 @@
 
 
 ## About Me 🚀
-i am leanring full stack web engineering and this is the place where i show my progress.
+i am learning full stack web engineering and this is the place where i show my progress.
 - 📫Reach me: alextaddele@gmail.com.
 
 ## My Skills 🧠
